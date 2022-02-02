@@ -1,5 +1,5 @@
 import numpy as np
-from StylizeModel import StylizeModel
+from packages.StylizeModel import StylizeModel
 from keras.utils.vis_utils import plot_model
 import argparse
 

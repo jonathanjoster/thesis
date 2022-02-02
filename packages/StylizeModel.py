@@ -12,7 +12,7 @@ import tensorflow as tf
 import keras
 import keras.backend as K
 from keras.layers import LeakyReLU
-from LeakyAlt import LeakyAlt
+from packages.LeakyAlt import LeakyAlt
 from keras.layers import Input, Multiply, GlobalAveragePooling1D, Softmax, Add
 
 _stage_label = ['W', 'N1', 'N2', 'N3', 'R']
