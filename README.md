@@ -1,5 +1,7 @@
 # Thesis program
 
+## Abstract
+
 The clinical test to determine sleep stages of a subject based on biological signals is called sleep stage scoring.  
 Although some models have been proposed to automatically determine sleep stages, but sometimes the accuracy of these models is decreased due to noise and differences in the signals caused by individual differences.
 
@@ -7,7 +9,7 @@ In this study, we developed a signal processing technique based on style transfe
 In the experiment, we confirmed that the proposed method improved the accuracy of the existing stage scoring model by inputting the converted signal.  
 We also investigated the relationship between the degree of style transfer and the improvement of scoring accuracy.
 
-![](img/compare.png)
+![](img/signal_n2.png)
 
 ## Setup
 
